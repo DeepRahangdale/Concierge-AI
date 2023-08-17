@@ -35,11 +35,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 // Important links which contains the data used in the project Step Wise
 
-1. https://nextjs.org/docs/app/building-your-application/routing/route-groups (Folder Setup Part) 2.https://clerk.com/docs/nextjs/get-started-with-nextjs(clerk dock for Authentication/implementing )
+1. https://nextjs.org/docs/app/building-your-application/routing/route-groups (Folder Setup Part)
 
-2. https://ui.shadcn.com/ (used in the Navbar Section Button Components also used for the Light and the Dark Mode)
+2.https://clerk.com/docs/nextjs/get-started-with-nextjs(clerk dock for Authentication/implementing )
+
+3. https://ui.shadcn.com/ (used in the Navbar Section Button Components also used for the Light and the Dark Mode)
 
 (route) = Such Folder Doesn't affect the URL
+
 (used in memory service)=npm i @pinecone-database/pinecone
 npm i langchain
 
