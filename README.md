@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 1. https://nextjs.org/docs/app/building-your-application/routing/route-groups (Folder Setup Part)
 
-2.https://clerk.com/docs/nextjs/get-started-with-nextjs(clerk dock for Authentication/implementing )
+2. https://clerk.com/docs/nextjs/get-started-with-nextjs(clerk dock for Authentication/implementing )
 
 3. https://ui.shadcn.com/ (used in the Navbar Section Button Components also used for the Light and the Dark Mode)
 
