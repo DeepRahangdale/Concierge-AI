@@ -10,8 +10,8 @@ async function main() {
                 {name: " Scientist" },
                 {name: " Animals" },
                 {name: " Philosophy" },
-                {name: " Movies and Tv" },
-                {name: " Musicians and Dancers" },
+                {name: " Movies and TV" },
+                {name: " Musicians" },
             ]
         })
     } catch (error) {
