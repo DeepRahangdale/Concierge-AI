@@ -3,6 +3,22 @@
 
 Concierge AI contains a personalized AI model with which you can converse in a manner that simulates a real personality. This simulation is achieved using the data I provide to each AI model. Additionally, You have the option to create your own AI model through a subscription service with minimal charges. This model can be fashioned after anyone in the world, including yourself.
 
+## Creating an AI Model
+Only Admin and Subscribers have this Premium Access
+<div align="center">
+  <img src="create1.png" height="300" width="400" alt="Image 1">
+  <img src="create2.png" height="300" width="400" alt="Image 2">
+</div>
+
+## Sample Chat
+<div align="center">
+  <img src="sample1.png" width="500" alt="Image 1">
+  <img src="sample2.jpg" width="300" alt="Image 2">
+  <img src="sample3.jpg" width="300" alt="Image 3">
+</div>
+
+
+
 ## Getting Started
 
 First, run the development server:
@@ -27,7 +43,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-// Important links which contains the data used in the project Step Wise
+ Important links which contains the data used in the project Step Wise
 
 1. https://nextjs.org/docs/app/building-your-application/routing/route-groups (Folder Setup Part)
 
@@ -35,11 +51,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 3. https://ui.shadcn.com/ (used in the Navbar Section Button Components also used for the Light and the Dark Mode)
 
-(route) = Such Folder Doesn't affect the URL
+4. upstash = "https://upstash.com/docs/redis/overall/getstarted"
 
-(used in memory service)=npm i @pinecone-database/pinecone
-npm i langchain
-
-upstash = "https://upstash.com/docs/redis/overall/getstarted"
-
-replicate="https://replicate.com/"
+5. replicate="https://replicate.com/"
