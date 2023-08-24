@@ -35,7 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-// Important links which contains the data used in the project Step Wise
+ Important links which contains the data used in the project Step Wise
 
 1. https://nextjs.org/docs/app/building-your-application/routing/route-groups (Folder Setup Part)
 
@@ -43,11 +43,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 3. https://ui.shadcn.com/ (used in the Navbar Section Button Components also used for the Light and the Dark Mode)
 
-(route) = Such Folder Doesn't affect the URL
+4. upstash = "https://upstash.com/docs/redis/overall/getstarted"
 
-(used in memory service)=npm i @pinecone-database/pinecone
-npm i langchain
-
-upstash = "https://upstash.com/docs/redis/overall/getstarted"
-
-replicate="https://replicate.com/"
+5. replicate="https://replicate.com/"
