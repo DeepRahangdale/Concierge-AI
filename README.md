@@ -12,9 +12,9 @@ Only Admin and Subscribers have this Premium Access
 
 ## Sample Chat
 <div align="center">
-  <img src="sample.png" width="300" alt="Image 1">
-  <img src="sample2.png" width="300" alt="Image 2">
-  <img src="sample3.png" width="300" alt="Image 3">
+  <img src="sample1.png" width="300" alt="Image 1">
+  <img src="sample2.jpg" width="300" alt="Image 2">
+  <img src="sample3.jpg" width="300" alt="Image 3">
 </div>
 
 
