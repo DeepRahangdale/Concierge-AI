@@ -11,6 +11,7 @@ Only Admin and Subscribers have this Premium Access
 </div>
 
 ## Sample Chat
+Compitable with Desktop as well as Mobile Devices(IN Dark,Light,System Themes)
 <div align="center">
   <img src="sample1.png" alt="Image 1">
   <img src="sample2.jpg" width="300" alt="Image 2">
