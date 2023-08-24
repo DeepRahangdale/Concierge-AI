@@ -6,8 +6,8 @@ Concierge AI contains a personalized AI model with which you can converse in a m
 ## Creating an AI Model
 
 <div align="center">
-  <img src="create1.png" width="400" alt="Image 1">
-  <img src="create1.png" width="400" alt="Image 2">
+  <img src="create1.png" height="300" width="400" alt="Image 1">
+  <img src="create1.png" height="300" width="400" alt="Image 2">
 </div>
 
 
