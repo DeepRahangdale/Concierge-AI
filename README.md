@@ -10,6 +10,14 @@ Only Admin and Subscribers have this Premium Access
   <img src="create2.png" height="300" width="400" alt="Image 2">
 </div>
 
+## Sample Chat
+<div align="center">
+  <img src="sample.png" width="300" alt="Image 1">
+  <img src="sample2.png" width="300" alt="Image 2">
+  <img src="sample3.png" width="300" alt="Image 3">
+</div>
+
+
 
 ## Getting Started
 
