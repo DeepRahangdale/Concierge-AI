@@ -18,7 +18,17 @@ Compitable with Desktop as well as Mobile Devices(IN Dark,Light,System Themes)
   <img src="sample3.jpg" width="300" alt="Image 3">
 </div>
 
+## Contributing
 
+Contributions are welcome! If you'd like to contribute to Concierge.AI, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature: `git checkout -b feature-name`
+3. Make your changes and commit them: `git commit -am 'Add new feature'`
+4. Push your changes to your fork: `git push origin feature-name`
+5. Submit a pull request detailing your changes.
+
+Please ensure your code follows the project's coding standards and includes appropriate documentation.
 
 ## Getting Started
 
@@ -44,7 +54,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
- Important links which contains the data used in the project Step Wise
+Important links which contains the data used in the project Step Wise
 
 1. https://nextjs.org/docs/app/building-your-application/routing/route-groups (Folder Setup Part)
 
