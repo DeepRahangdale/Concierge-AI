@@ -25,7 +25,7 @@ export default function RootLayout({
   return (
     <ClerkProvider>
        <Head>
-        <link rel="icon" href="./robot.png" /> {/* Make sure to use the correct path to your favicon */}
+        <link rel="icon" href="/robot.png" /> {/* Make sure to use the correct path to your favicon */}
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <html lang="en" suppressHydrationWarning>
