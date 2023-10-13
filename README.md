@@ -76,3 +76,6 @@ Important links which contains the data used in the project Step Wise
 4. upstash = "https://upstash.com/docs/redis/overall/getstarted"
 
 5. replicate="https://replicate.com/"
+
+## Status
+Currently the Site is out of Service(The AI Models won't be able to chat)due to Payment Issue to keep Replicate Works
