@@ -29,14 +29,14 @@ With our Concierge App, your world becomes simpler, more efficient, and tailored
 * Welcome to the future of assistance
 
 ## Creating an AI Model
-Only Admin and Subscribers have this Premium Access
+Premium access is exclusively available to administrators and subscribers.
 <div align="center">
   <img src="images/create1.png" height="300" width="400" alt="Image 1">
   <img src="images/create2.png" height="300" width="400" alt="Image 2">
 </div>
 
 ## Sample Chat
-Compitable with Desktop as well as Mobile Devices(IN Dark,Light,System Themes)
+Compatible with both desktop and mobile devices, and adapts seamlessly to various themes including dark, light, and system settings.
 <div align="center">
   <img src="images/sample1.png" alt="Image 1">
   <img src="images/sample2.jpg" width="300" alt="Image 2">
