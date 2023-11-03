@@ -114,21 +114,21 @@ node scripts/seed.ts
 
 ## Deploy on Vercel and Sites Used
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Utilize the Vercel Platform for deploying your Next.js app, the recommended and simplest method.
+Next.js Deployment Documentation:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Refer to the Next.js deployment documentation for in-depth information on deployment.
+Key Project Links:
 
-Important links used/required for the Project 
+1. Folder Setup Part: https://nextjs.org/docs/app/building-your-application/routing/route-groups
 
-1. https://nextjs.org/docs/app/building-your-application/routing/route-groups (Folder Setup Part)
+2. Clerk Documentation for Authentication Implementation: https://clerk.com/docs/nextjs/get-started-with-nextjs
 
-2. https://clerk.com/docs/nextjs/get-started-with-nextjs (clerk dock for Authentication/implementing )
+3. UI Components from Shadcn used for Navbar and Light/Dark Mode Buttons: https://ui.shadcn.com/
 
-3. https://ui.shadcn.com/ (used in the Navbar Section Button Components also used for the Light and the Dark Mode)
+4. Upstash for Redis Database: https://upstash.com/docs/redis/overall/getstarted
 
-4. upstash = "https://upstash.com/docs/redis/overall/getstarted"
-
-5. replicate="https://replicate.com/"
+5. Replicate for Data Replication: https://replicate.com/
 
 ## Status
 Currently the Site is out of Service(The AI Models won't be able to chat)due to Payment Issue to keep Replicate Works
