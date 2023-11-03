@@ -42,7 +42,7 @@ git clone https://github.com/DeepRahangdale/Concierge-AI.git
 4. Change the present working directory.
 
 ```markdown
-cd AnimeHub
+cd Concierge-AI
 ```
 
 5. Make a new branch
