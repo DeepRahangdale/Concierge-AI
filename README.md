@@ -1,6 +1,6 @@
 ## Concierge AI(Personalized AI Model)
 
-Concierge AI contains a personalized AI model with which you can converse in a manner that simulates a real personality. This simulation is achieved using the data I provide to each AI model. Additionally, You have the option to create your own AI model through a subscription service with minimal charges. This model can be fashioned after anyone in the world, including yourself.
+Concierge AI offers a unique AI model that can engage in lifelike conversations, simulating real personalities through the data you provide. Additionally, you can create your own custom AI model by subscribing to our service, at a minimal cost, and shape it to resemble anyone in the world, even yourself, enabling personalized and engaging interactions.
 
 ![Project Logo](images/concierge.png) <!-- If applicable -->
 
