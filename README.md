@@ -2,7 +2,7 @@
 
 Concierge AI contains a personalized AI model with which you can converse in a manner that simulates a real personality. This simulation is achieved using the data I provide to each AI model. Additionally, You have the option to create your own AI model through a subscription service with minimal charges. This model can be fashioned after anyone in the world, including yourself.
 
-![Project Logo](concierge.png) <!-- If applicable -->
+![Project Logo](images/concierge.png) <!-- If applicable -->
 
 ## Introducing the Future of Personalized Assistance: Your All-in-One Concierge App
 
@@ -17,16 +17,16 @@ With our Concierge App, your world becomes simpler, more efficient, and tailored
 ## Creating an AI Model
 Only Admin and Subscribers have this Premium Access
 <div align="center">
-  <img src="create1.png" height="300" width="400" alt="Image 1">
-  <img src="create2.png" height="300" width="400" alt="Image 2">
+  <img src="images/create1.png" height="300" width="400" alt="Image 1">
+  <img src="images/create2.png" height="300" width="400" alt="Image 2">
 </div>
 
 ## Sample Chat
 Compitable with Desktop as well as Mobile Devices(IN Dark,Light,System Themes)
 <div align="center">
-  <img src="sample1.png" alt="Image 1">
-  <img src="sample2.jpg" width="300" alt="Image 2">
-  <img src="sample3.jpg" width="300" alt="Image 3">
+  <img src="images/sample1.png" alt="Image 1">
+  <img src="images/sample2.jpg" width="300" alt="Image 2">
+  <img src="images/sample3.jpg" width="300" alt="Image 3">
 </div>
 
 ## Before contributing create an issue of the bug or a feature you would like to add in the Concierge.AI project and get the task assigned for yourself.
