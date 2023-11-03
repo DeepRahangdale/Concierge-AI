@@ -131,4 +131,4 @@ Key Project Links:
 5. Replicate for Data Replication: https://replicate.com/
 
 ## Status
-Currently the Site is out of Service(The AI Models won't be able to chat)due to Payment Issue to keep Replicate Works
+The site is temporarily unavailable for chatting with AI models as there is a payment issue that needs to be resolved to ensure Replicate functionality.
