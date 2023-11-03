@@ -29,35 +29,74 @@ Compitable with Desktop as well as Mobile Devices(IN Dark,Light,System Themes)
   <img src="sample3.jpg" width="300" alt="Image 3">
 </div>
 
-## Contributing
+## Before contributing create an issue of the bug or a feature you would like to add in the Concierge.AI project and get the task assigned for yourself.
 
-Contributions are welcome! If you'd like to contribute to Concierge.AI, follow these steps:
+1. Star the repository.
+2. Fork the repository. (Click the Fork button in the top right of this page, click your Profile Image)
+3. Clone the forked repository to your local machine.
 
-1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-name`
-3. Make your changes and commit them: `git commit -am 'Add new feature'`
-4. Push your changes to your fork: `git push origin feature-name`
-5. Submit a pull request detailing your changes.
+```markdown
+git clone https://github.com/DeepRahangdale/Concierge-AI.git
+```
+
+4. Change the present working directory.
+
+```markdown
+cd Concierge-AI
+```
+
+5. Make a new branch
+
+```markdown
+git checkout -b feature-name
+```
+
+6.Create a .env file in the directory according to the .env.example files with the required environment variables.
+
+7.Install the dependencies for the Project.
+
+```markdown
+npm install
+```
+
+8. Make your changes and commit them.
+
+```markdown
+git commit -am 'Add new feature'
+```
+
+9.Push your changes to your fork.
+
+```markdown
+git push origin feature-name
+```
+
+10. Submit a pull request detailing your changes.
 
 Please ensure your code follows the project's coding standards and includes appropriate documentation.
 
-## Getting Started
+## Start the app
 
-First, run the development server:
-
-```bash
+```markdown
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+
+## Setup Prisma
+
+Add MySQL Database (I used PlanetScale)
+
+```markdown
+npx prisma db push
+
+```
+
+Seed categories:
+```markdown
+node scripts/seed.ts
+```
 
 ## Deploy on Vercel and Sites Used
 
@@ -76,3 +115,6 @@ Important links which contains the data used in the project Step Wise
 4. upstash = "https://upstash.com/docs/redis/overall/getstarted"
 
 5. replicate="https://replicate.com/"
+
+## Status
+Currently the Site is out of Service(The AI Models won't be able to chat)due to Payment Issue to keep Replicate Works
