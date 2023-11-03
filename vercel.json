@@ -1,0 +1,8 @@
+{
+    "functions": {
+     "app/api/chat/**/*.ts": {
+       "memory": 3008,
+       "maxDuration": 60
+}
+    }
+}
