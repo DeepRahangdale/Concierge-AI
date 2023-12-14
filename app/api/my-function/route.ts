@@ -1,4 +1,4 @@
-export const maxDuration = 60; 
+export const maxDuration = 10; 
 export const dynamic = 'force-dynamic';
  
 export function GET(request: Request) {
