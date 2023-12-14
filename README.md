@@ -1,4 +1,4 @@
-## Concierge AI(Personalized AI Model) - Make a Ton 5.0
+## Concierge AI(Personalized AI Model)
 
 Concierge AI offers a unique AI model that can engage in lifelike conversations, simulating real personalities through the data you provide. Additionally, you can create your own custom AI model by subscribing to our service, at a minimal cost, and shape it to resemble anyone in the world, even yourself, enabling personalized and engaging interactions.
 
