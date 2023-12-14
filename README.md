@@ -129,4 +129,4 @@ Key Project Links:
 5. Replicate for Data Replication: https://replicate.com/
 
 ## Support the Project
-Buy buying me a cup of Coffee at BuymeCoffee(https://www.buymeacoffee.com/deeprahangdale)
+Buying a cup of Coffee at BuymeCoffee(https://www.buymeacoffee.com/deeprahangdale)
