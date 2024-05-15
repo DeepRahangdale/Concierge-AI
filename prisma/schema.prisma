@@ -3,10 +3,17 @@ generator client {
   previewFeatures = ["fullTextSearch", "fullTextIndex"]
 }
 
+//Used for MySql Database Planet Scale / Aiven
+// datasource db {
+//   provider = "mysql"
+//   url      = env("DATABASE_URL")
+//   // relationMode = "prisma"
+// }
+
 datasource db {
-  provider     = "mysql"
-  url          = env("DATABASE_URL")
-  relationMode = "prisma"
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DATABASE_URL_UNPOOLED")
 }
 
 model Category {
@@ -32,9 +39,9 @@ model Companion {
   categoryId String
 
   messages Message[]
+  // @@fulltext([name]) //not need with PostgreSql
 
   @@index([categoryId])
-  @@fulltext([name])
 }
 
 enum Role {

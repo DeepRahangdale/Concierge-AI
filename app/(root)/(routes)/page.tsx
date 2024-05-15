@@ -13,11 +13,12 @@ interface RootPageProps {
 const RootPage = async ({
   searchParams
 }: RootPageProps) => {
+  // Modify the search to use a basic string match instead of full-text search
   const data = await prismadb.companion.findMany({
     where: {
       categoryId: searchParams.categoryId,
       name: {
-        search: searchParams.name,
+        contains: searchParams.name, // Using 'contains' for basic string match
       },
     },
     orderBy: {
