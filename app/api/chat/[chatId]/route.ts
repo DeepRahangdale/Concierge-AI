@@ -10,7 +10,7 @@ import { rateLimit } from "@/lib/rate-limit";
 import prismadb from "@/lib/prismadb";
 
 export const runtime = 'nodejs'
-export const maxDuration = 300
+export const maxDuration = 10
 
 export async function POST(
   request: Request,
