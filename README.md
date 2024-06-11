@@ -6,6 +6,17 @@ Concierge AI offers a unique AI model that can engage in lifelike conversations,
 
 ## Introducing the Future of Personalized Assistance: Your All-in-One Concierge App
 
+### Purpose: 
+I developed Concierge AI to explore the potential of personalized AI in enhancing human-computer interaction. The goal was to create lifelike AI companions that can hold natural conversations, providing users with a unique and engaging experience.
+Development: This project was built using the Next.js framework with TypeScript for type safety and maintainability. The backend utilizes a PostgreSQL database to handle data efficiently. I implemented a secure payment gateway using Stripe to manage subscriptions.
+
+### Key Features:
+-Custom AI Companions: Trained over 15 custom companions for clients, each capable of engaging in lifelike conversations tailored to individual preferences.
+-Subscription Service: Users can create their custom companions for a monthly fee of $9.99.
+-Libraries and Tools: Leveraged Tailwind CSS to cut development time by 30% compared to traditional CSS. Used the LLMs, Meta Llama 3 family from Replicate to power the AI models.
+-User Base: The application is actively used by over 30 users, providing valuable feedback for continuous improvement.
+-Contributions: I was involved in every aspect of the project, from ideation and design to implementation and deployment. I handled the integration of AI models, set up the database, and ensured the secure handling of payments.
+
 <!--
 Welcome to a new era of convenience and personalized service, where your every need is just a tap away. Imagine having a dedicated concierge at your fingertips, ready to assist you with anything and everything, 24/7. With our cutting-edge Concierge App, powered by a state-of-the-art AI model generator and a robust full-stack platform, we're redefining the way you experience assistance and convenience.
 
