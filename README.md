@@ -1,4 +1,4 @@
-## Concierge AI(Personalized AI Model)
+## Concierge AI(Personalized AI Companion)
 
 Concierge AI offers a unique AI model that can engage in lifelike conversations, simulating real personalities through the data you provide. Additionally, you can create your own custom AI model by subscribing to our service, at a minimal cost, and shape it to resemble anyone in the world, even yourself, enabling personalized and engaging interactions.
 
@@ -40,7 +40,7 @@ With our Concierge App, your world becomes simpler, more efficient, and tailored
 * Welcome to the future of assistance
 -->
 
-## Creating an AI Model
+## Creating an AI Companion
 Premium access is exclusively available to administrators and subscribers.
 <div align="center">
   <img src="images/create1.png" height="300" width="400" alt="Image 1">
